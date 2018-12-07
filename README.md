@@ -5,3 +5,6 @@
        
 # English to Tamil words Reference
   Tamil words (dictionary.json) borrowed from Link: https://raw.githubusercontent.com/linuxkathirvel/eng2tamildictionary/master/dictionary.json 
+  
+# Android App
+https://play.google.com/store/apps/details?id=com.tamil.mohamed.dictionary
